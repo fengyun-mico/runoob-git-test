@@ -1,0 +1,18 @@
+10/28
+learning git makes me happy
+Your identification has been saved in /c/Users/mico/.ssh/id_rsa
+Your public key has been saved in /c/Users/mico/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:Cp97OfNf42Kui1lyzIJ5/8VGytqjutEBGgex3CdsHzY 810298948@qq.com
+The key's randomart image is:
++---[RSA 3072]----+
+|      o.         |
+|     . =         |
+|      + B E      |
+|       = * o     |
+|    . . S o   .  |
+|     o = + o +   |
+|      * =.* o *  |
+|       o=X o+= . |
+|      ..=*BO=o.  |
++----[SHA256]-----+
